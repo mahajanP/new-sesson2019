@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file2  new file update fA brnach hello word hello
+=======
+new file2  new file update fA brnach hello word update
+>>>>>>> feature-A
