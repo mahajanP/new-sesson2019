@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 new file1 add new data in feature A new updat
-=======
 new file1 update
->>>>>>> feature-B
-=======
 new file1 update i am a new changes in this file
->>>>>>> feature-B
