@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 new file1 add new data in feature A new updat
 new file1 update
 new file1 update i am a new changes in this file
+=======
+
+>>>>>>> 87069bef539bad5e8cc45181f7d8d39c4a8aec64
 update new containt 
